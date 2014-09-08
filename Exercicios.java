@@ -11,6 +11,16 @@ class Exercicios{
 
 		e.imprimeElefante();
 
+		System.out.println();
+		System.out.println("Digite uma frase:");
+
+		sc.nextLine();
+		Frase f = new Frase(sc.nextLine());
+
+		System.out.println(f.tamanho() + " caracteres");
+		System.out.println(f.quantasPalavras() + " palavras");
+		System.out.println(f.quantasVogais() + " vogais");
+
 	}
 }
 
