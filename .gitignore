@@ -1,0 +1,9 @@
+# compiled sources #
+####################
+
+*.java
+*.class
+*.uml
+*.in
+*.md
+*.txt
