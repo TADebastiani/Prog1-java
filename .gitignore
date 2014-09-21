@@ -1,7 +1,6 @@
 # compiled sources #
 ####################
 
-*.java
 *.class
 *.uml
 *.in
